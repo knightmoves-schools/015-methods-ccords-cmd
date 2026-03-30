@@ -1,7 +1,7 @@
 ﻿namespace knightmoves;
 public class Calculator
 {
- public void Square(){
-     return 7 * 7;
+ public void Square(int a){
+return a * a;
  };
 }
