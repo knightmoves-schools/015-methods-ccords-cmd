@@ -1,5 +1,7 @@
 ﻿namespace knightmoves;
 public class Calculator
 {
-    // Add your code here
+ public void Square(){
+     
+ };
 }
